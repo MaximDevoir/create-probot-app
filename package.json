@@ -31,7 +31,7 @@
     "chalk": "^4.1.0",
     "commander": "^7.0.0",
     "conjecture": "^0.1.2",
-    "cross-spawn": "^7.0.3",
+    "cross-spawn": "^7.0.5",
     "egad": "^0.2.0",
     "fs-extra": "^9.0.1",
     "inquirer": "^7.3.3",
